@@ -11,15 +11,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 - [Acceptance Criteria](#acceptancecriteria)
 
-- [Links](#Links)
-
 - [Licenses](#licenses)
 
+- [Links](#Links)
+
 ## Instructions
-- To install dependencies:
+1. To install dependencies:
 Enter the command ```npm install``` in the terminal.
 
-- To run the app:
+2. To run the app:
 Enter the command ```npm run develop``` in the terminal.
 
 ## User Story
@@ -58,13 +58,13 @@ Enter the command ```npm run develop``` in the terminal.
 - WHEN I click on the Logout button
 - THEN I am logged out of the site and presented with a menu with the options Search for Books and Login/Signup and an input field to search for books and a submit button
 
-## Links
-- [GitHub Repo](https://github.com/ragil1114/Book-Search_Engine.git)
-
-- [Heroku App](https://book-search-engine1114.herokuapp.com/)
-
 ## Licenses
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
+## Links
+- [GitHub Repo](https://github.com/ragil1114/Book-Search_Engine.git)
+
+- [Heroku App](https://book-search-engine1114.herokuapp.com/)
