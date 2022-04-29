@@ -7,9 +7,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 - [Instructions](#instructions)
 
-- [User Story](#userstory)
+- [User Story](#user-story)
 
-- [Acceptance Criteria](#acceptancecriteria)
+- [Acceptance Criteria](#acceptance-criteria)
 
 - [Licenses](#licenses)
 
