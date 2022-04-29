@@ -3,6 +3,18 @@ a fully functioning Google Books API search engine built with a GraphQL API & Ap
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Table of Contents
+
+- [Instructions](#instructions)
+
+- [User Story](#userstory)
+
+- [Acceptance Criteria](#acceptancecriteria)
+
+- [Links](#Links)
+
+- [Licenses](#licenses)
+
 ## Instructions
 - To install dependencies:
 Enter the command ```npm install``` in the terminal.
@@ -48,4 +60,11 @@ Enter the command ```npm run develop``` in the terminal.
 
 ## Links
 - [GitHub Repo](https://github.com/ragil1114/Book-Search_Engine.git)
+
 - [Heroku App](https://book-search-engine1114.herokuapp.com/)
+
+## Licenses
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
