@@ -3,6 +3,25 @@ a fully functioning Google Books API search engine built with a GraphQL API & Ap
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Table of Contents
+
+- [Instructions](#instructions)
+
+- [User Story](#user-story)
+
+- [Acceptance Criteria](#acceptance-criteria)
+
+- [Licenses](#licenses)
+
+- [Links](#Links)
+
+## Instructions
+1. To install dependencies:
+Enter the command ```npm install``` in the terminal.
+
+2. To run the app:
+Enter the command ```npm run develop``` in the terminal.
+
 ## User Story
 - AS AN avid reader
 - I WANT to search for new books to read
@@ -39,12 +58,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - WHEN I click on the Logout button
 - THEN I am logged out of the site and presented with a menu with the options Search for Books and Login/Signup and an input field to search for books and a submit button
 
-## Instructions
-- To install dependencies:
-Enter the command ```npm install``` in the terminal.
+## Licenses
 
-- To run the app:
-Enter the command ```npm run develop``` in the terminal.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ## Links
 - [GitHub Repo](https://github.com/ragil1114/Book-Search_Engine.git)
